@@ -1,0 +1,44 @@
+Assignment 
+
+
+1. Open Flipcart application by using navigate to method
+
+2. Print the title of page
+
+3. Pringt the CurrentURL of the page
+
+4. Maximize the window
+
+5. Open the myntra application by using navigate method
+
+6. Print the title of page
+
+7. Pringt the CurrentURL of the page
+
+8. Maximize the window
+
+9. Naviagte back
+
+10. Print the title of page
+
+11. Pringt the CurrentURL of the page
+
+14. Maximize the window
+
+15.Navigate forward
+
+16. Print the title of page
+
+17. Pringt the CurrentURL of the page
+
+18. Maximize the window
+
+19. Refersh the page
+
+20. Print the title of page
+
+21. Pringt the CurrentURL of the page
+
+
+
+4. Maximize the window
