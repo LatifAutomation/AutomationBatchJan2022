@@ -1,0 +1,68 @@
+Handling the Alerts and popups
+
+
+1.Hidden division popup
+
+
+   a. we can inspect
+
+
+   b. We can not drag and drop
+
+   c. it is colourfull.
+
+
+2.  Authentication pop 
+
+https://the-internet.herokuapp.com/basic_auth
+
+
+
+https://username:password@https://the-internet.herokuapp.com/basic_auth
+
+
+username: admin
+
+password: admin
+
+
+https://admin:admin@https://the-internet.herokuapp.com/basic_auth
+
+
+3. Alert pop up
+
+
+1. can not inspect
+
+2.can not drag and drop
+
+3. it i scolorfull
+
+4.Ok and cancel options
+
+
+Alert
+
+switchto().alert()
+
+
+
+OK----> accept()
+
+cancel----> dismiss()
+
+text ------> getText()
+
+
+
+4. Child Browser popup  / Windows based popup
+
+1. can drag and drop
+2. I can inspect
+3. Its a colorfull
+4. consist of minimize,maximize and close
+
+
+
+
+
